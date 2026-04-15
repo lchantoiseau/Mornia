@@ -4,7 +4,7 @@
 
 Mornia est un jeu vidéo développé en Python utilisant la bibliothèque Pygame. Il s'agit d'un jeu d'aventure/action en 2D avec des éléments de plateforme, de combat et d'exploration. Le jeu utilise une architecture modulaire basée sur des composants et des systèmes pour une meilleure maintenabilité et extensibilité.
 
-*[À compléter par le développeur : description détaillée du gameplay, objectifs, mécaniques, etc.]*
+*[À compléter : description détaillée du gameplay, objectifs, mécaniques, etc.]*
 
 ## Architecture Générale
 
@@ -139,4 +139,4 @@ Le projet utilise une approche modulaire pour faciliter l'ajout de nouvelles fon
 
 ## Auteur
 
-*[À compléter]*
+Moi le goat. 
